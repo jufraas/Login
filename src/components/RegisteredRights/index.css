@@ -1,0 +1,15 @@
+.AllRights {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+}
+
+.AllRights>p {
+    color: #000000;
+    font-size: smaller;
+}
+
+.AllRights>p>strong>span {
+    color: #690e75;
+}
